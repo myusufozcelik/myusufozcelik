@@ -1,4 +1,4 @@
-[![MasterHead]https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/2d78d141-1f64-44c8-976b-7321284e5147/dfjfdbh-02721342-e03d-4748-965f-f5fd5773baba.png
+[![MasterHead](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/2d78d141-1f64-44c8-976b-7321284e5147/dfjfdbh-02721342-e03d-4748-965f-f5fd5773baba.png)
 <h1 align="center">Hi 👋 I'm Yusuf Özçelik</h1>
 <h3 align="center">A passionate full stack developer from Turkiye</h3>
 
